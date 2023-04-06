@@ -1,0 +1,29 @@
+com.example.dogglers.test.app-espresso-contrib-3.4.0-0 C:\Users\domin\.gradle\caches\transforms-3\24c393d32fccf25475a00718ce6d319d\transformed\espresso-contrib-3.4.0\res
+com.example.dogglers.test.app-material-1.6.0-1 C:\Users\domin\.gradle\caches\transforms-3\24d8432213b175d6a673f90ce14e1492\transformed\material-1.6.0\res
+com.example.dogglers.test.app-core-1.7.0-2 C:\Users\domin\.gradle\caches\transforms-3\2d8a22c6411d24d14a9249b4fef24ab2\transformed\core-1.7.0\res
+com.example.dogglers.test.app-jetified-appcompat-resources-1.4.1-3 C:\Users\domin\.gradle\caches\transforms-3\2f3bac24c68176df0c348ef7375fc20e\transformed\jetified-appcompat-resources-1.4.1\res
+com.example.dogglers.test.app-constraintlayout-2.1.4-4 C:\Users\domin\.gradle\caches\transforms-3\48afb2b68427694ee528a0a62dcf31c7\transformed\constraintlayout-2.1.4\res
+com.example.dogglers.test.app-cardview-1.0.0-5 C:\Users\domin\.gradle\caches\transforms-3\5114aebd90494766e6d904cd4ddc6e71\transformed\cardview-1.0.0\res
+com.example.dogglers.test.app-jetified-savedstate-1.1.0-6 C:\Users\domin\.gradle\caches\transforms-3\5bb15193f91d61bbc6f7c83153e74e97\transformed\jetified-savedstate-1.1.0\res
+com.example.dogglers.test.app-appcompat-1.4.1-7 C:\Users\domin\.gradle\caches\transforms-3\629617cfaae13edc7a291c453c287902\transformed\appcompat-1.4.1\res
+com.example.dogglers.test.app-recyclerview-1.1.0-8 C:\Users\domin\.gradle\caches\transforms-3\76e5eabdcf7f6ca150d30edbadbf2b1c\transformed\recyclerview-1.1.0\res
+com.example.dogglers.test.app-jetified-startup-runtime-1.0.0-9 C:\Users\domin\.gradle\caches\transforms-3\7929fb7e78044d047e2d402124882e55\transformed\jetified-startup-runtime-1.0.0\res
+com.example.dogglers.test.app-jetified-annotation-experimental-1.1.0-10 C:\Users\domin\.gradle\caches\transforms-3\827d3fd0adc21013970e0c408561a59a\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.dogglers.test.app-jetified-viewpager2-1.0.0-11 C:\Users\domin\.gradle\caches\transforms-3\99a92047f60c71bb144ebe78a147e4cb\transformed\jetified-viewpager2-1.0.0\res
+com.example.dogglers.test.app-lifecycle-runtime-2.4.0-12 C:\Users\domin\.gradle\caches\transforms-3\9adcff27767ac04f6deffe19ff740b6a\transformed\lifecycle-runtime-2.4.0\res
+com.example.dogglers.test.app-drawerlayout-1.1.1-13 C:\Users\domin\.gradle\caches\transforms-3\9bbb3d2a5de36e0bf028ec87945bc25d\transformed\drawerlayout-1.1.1\res
+com.example.dogglers.test.app-jetified-emoji2-1.0.0-14 C:\Users\domin\.gradle\caches\transforms-3\a839976424dac0852fa7b68e7f04dbd0\transformed\jetified-emoji2-1.0.0\res
+com.example.dogglers.test.app-fragment-1.4.1-15 C:\Users\domin\.gradle\caches\transforms-3\ab5b0f5245b56ff85ba0034e88b062e9\transformed\fragment-1.4.1\res
+com.example.dogglers.test.app-transition-1.2.0-16 C:\Users\domin\.gradle\caches\transforms-3\b7cde1ac43d41d259deed8e1c49cbc21\transformed\transition-1.2.0\res
+com.example.dogglers.test.app-lifecycle-viewmodel-2.3.1-17 C:\Users\domin\.gradle\caches\transforms-3\bfc2b7849afd14ad4aa9b67bafd7bad5\transformed\lifecycle-viewmodel-2.3.1\res
+com.example.dogglers.test.app-coordinatorlayout-1.1.0-18 C:\Users\domin\.gradle\caches\transforms-3\ce3c4746feaa732408dcb7e539d11a5d\transformed\coordinatorlayout-1.1.0\res
+com.example.dogglers.test.app-jetified-emoji2-views-helper-1.0.0-19 C:\Users\domin\.gradle\caches\transforms-3\ebb891ac126cda82ccf76613c7b739e1\transformed\jetified-emoji2-views-helper-1.0.0\res
+com.example.dogglers.test.app-jetified-lifecycle-process-2.4.0-20 C:\Users\domin\.gradle\caches\transforms-3\f9e35c3d1330726450f9e481cfdbe7f9\transformed\jetified-lifecycle-process-2.4.0\res
+com.example.dogglers.test.app-jetified-core-ktx-1.7.0-21 C:\Users\domin\.gradle\caches\transforms-3\fc6d9c8f96d2828f427ba2efdb586675\transformed\jetified-core-ktx-1.7.0\res
+com.example.dogglers.test.app-androidTest-22 D:\Dysk\SM_Dominik_Stasiak\Program2\Dogglers app\app\build\generated\res\resValues\androidTest\debug
+com.example.dogglers.test.app-androidTest-23 D:\Dysk\SM_Dominik_Stasiak\Program2\Dogglers app\app\build\generated\res\rs\androidTest\debug
+com.example.dogglers.test.app-mergeDebugAndroidTestResources-24 D:\Dysk\SM_Dominik_Stasiak\Program2\Dogglers app\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.dogglers.test.app-mergeDebugAndroidTestResources-25 D:\Dysk\SM_Dominik_Stasiak\Program2\Dogglers app\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.dogglers.test.app-merged_res-26 D:\Dysk\SM_Dominik_Stasiak\Program2\Dogglers app\app\build\intermediates\merged_res\debugAndroidTest
+com.example.dogglers.test.app-androidTest-27 D:\Dysk\SM_Dominik_Stasiak\Program2\Dogglers app\app\src\androidTest\res
+com.example.dogglers.test.app-androidTestDebug-28 D:\Dysk\SM_Dominik_Stasiak\Program2\Dogglers app\app\src\androidTestDebug\res
